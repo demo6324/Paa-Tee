@@ -1,0 +1,9 @@
+path: D:/attack_set # dataset root dir
+train: images  # train images (relative to 'path') 128 images
+val: Trans # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: person
+
